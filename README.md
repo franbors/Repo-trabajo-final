@@ -2,8 +2,8 @@
 
 Empresa de viajes
 
-Tiene 4 apps declaradas:
-buy
+Tiene 3 apps declaradas:
+
 costumer
 package
 user
