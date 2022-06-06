@@ -10,7 +10,7 @@ def paquete_view(request):
 def oferta_view(request):
     return render(request, 'index-2.html',context={})
 
-def cliente_view(request):
+def persona_view(request):
     return render(request, 'index-3.html',context={})
 
 def contacto_view(request):
