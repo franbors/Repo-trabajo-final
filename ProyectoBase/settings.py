@@ -42,7 +42,6 @@ MY_APPS = [
     'package',
     'costumer',
     'user',
-    'buy',
 ]
 
 THIRD_APPS = [
