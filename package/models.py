@@ -12,3 +12,7 @@ class Paquete(models.Model):
     costo = models.FloatField()
     oferta = models.BooleanField()
     activo = models.BooleanField()
+
+class Meta:
+        verbose_name = 'paquete'
+        verbose_name_plural = 'paquetes'
