@@ -14,6 +14,7 @@ def oferta_view(request):
 
 def persona_view(request):
     return render(request, 'index-3.html',context={})
+    
 def cliente_view(request):
     clientes = Cliente.objects.all()
     context = {'clientes': clientes}
